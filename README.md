@@ -1,28 +1,28 @@
-# [GOVERNMENT] Website Request for Information
+[GOVERNMENT] Website Procurement Template
 
-## RFI template instructions
+## Procurement template instructions
 
 ### Purpose
 
-The purpose of this request for information template is to help governments purchase modern websites and digital services. This RFI template is a resource to save governments valuable time and frame the technology purchase conversation around recommendations from the experts on how to achieve your unique goals.  
+The purpose of this procurement template is to help governments purchase modern websites and digital services. This template is a resource to save governments valuable time and frame the technology purchase conversation around recommendations from the experts on how to achieve your unique goals.  
 
 ### Why
 
-RFIs change the framework of the purchase to focus on the intent of the services provided rather than the procurement process itself. Governments should provide needs, goals, standards, timeline and budget to act as a guideline for vendors to deliver detailed information on how they would deliver their services within those broad parameters. It is then up to the vendor to provide a clear and informative path to achieve government’s goals in time and on budget. 
+Regardless of whether you use this as a request for information, quote or proposal, the procurement template helps change the framework of the purchase to focus on the intent of the services provided rather than the purchasing process itself. Governments should provide needs, goals, standards, timeline and budget to act as a guideline for vendors to deliver detailed information on how they would deliver their services within those broad parameters. It is then up to the vendor to provide a clear and informative path to achieve government’s goals in time and on budget. 
 
-RFIs (as opposed to RFPs):
+This procurement template:
 
-* Avoid predetermined process (ex: wireframing, static designs, specific rounds of edits)
+* Avoids predetermined process (ex: wireframing, static designs, specific rounds of edits)
 
-* Separate standards (ex: mobile, HTTPS, ADA) from features
+* Separates standards (ex: mobile, HTTPS, ADA) from features
 
-* List suggested features rather than heavily-specified requirements
+* Lists suggested features rather than heavily-specified requirements
 
 *Related: **[What I Learned ‘Buying’ Our New City Digital Service*s](http://elgl.org/2016/08/03/what-i-learned-buying-our-new-city-digital-services/)* (ELGL)*
 
 ### Re-use
 
-This request for information template is for governments to re-use as they see fit. This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This procurement template is for governments to re-use as they see fit (request for information/proposal/quote). This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 ### Steps
 
@@ -32,9 +32,11 @@ This request for information template is for governments to re-use as they see f
 
 3. Search and replace [GOVERNMENT] with your information
 
-4. Provide your details where you see [FILL IN], [NAME], [TITLE], [EMAIL], [PHONE], [RANGE], [DATE] and  [TIME].
+4. If you are not using the template as an RFI, search and replace RFI with the type of request you are creating. 
 
-5. Add additional or remove bullets 
+5. Provide your details where you see [FILL IN], [NAME], [TITLE], [EMAIL], [PHONE], [RANGE], [DATE] and  [TIME].
+
+6. Add additional or remove bullets 
 
     1. Current challenges
 
@@ -42,15 +44,17 @@ This request for information template is for governments to re-use as they see f
 
     3. Suggested features
 
-6. Review procurement disclaimer
+7. Review procurement disclaimer
 
-7. Review RFI top to bottom
+8. Review template top to bottom
 
-8. Delete this instructions page page
+9. Delete this instructions page page
 
-9. Refresh table of contents
+10. Refresh table of contents
 
-10. Publish
+11. Confirm your new procurement document is in compliance with your purchasing rules. 
+
+12. Publish
 
     4. Your site
 
@@ -116,7 +120,7 @@ We want to:
 
 * Empower staff with training to maintain website and digital services
 
-* Increase transparency
+* Increase transparency and access to public records / information
 
 * Increase community engagement
 
@@ -212,7 +216,7 @@ We want a digital government platform that meets these standards:
 
 * Social media integration
 
-* GIS/mapping
+* Mapping
 
 * Voting and elections information
 
@@ -222,7 +226,7 @@ We want a digital government platform that meets these standards:
 
 * Translation
 
-## Budget
+## Project Budget
 
 * Year one budget: [RANGE]
 
